@@ -35,5 +35,34 @@
     </ul>
   </div>
   {{ end }}
+
+  {{/* Backlinks: pages that include THIS page in their `connected:` list */}}
+  {{ $self := strings.TrimSuffix "/" .RelPermalink }}
+  {{ $scratch := newScratch }}
+
+  {{ range site.RegularPages }}
+    {{ $src := . }}
+    {{ if $src.Params.connected }}
+      {{ range $src.Params.connected }}
+        {{ $candidate := strings.TrimSuffix "/" . }}
+        {{ if eq $candidate $self }}
+          {{ $scratch.Add "backlinks" (slice $src) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ $backlinks := $scratch.Get "backlinks" }}
+  {{ if $backlinks }}
+  <div class="connections">
+    <h3>Referenced by</h3>
+    <ul>
+      {{ range sort $backlinks "Title" "asc" }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
 </article>
 {{ end }}
