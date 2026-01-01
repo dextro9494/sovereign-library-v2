@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance on The Sovereign Library</title>
-    <link>https://dextro9494.github.io/sovereign-library/tags/finance/</link>
+    <link>https://dextro9494.github.io/sovereign-library-v2/tags/finance/</link>
     <description>Recent content in Finance on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Two-Bucket Finance</title>
-      <link>https://dextro9494.github.io/sovereign-library/protocols/two-bucket-finance/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/protocols/two-bucket-finance/</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/protocols/two-bucket-finance/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/protocols/two-bucket-finance/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Run two parallel tracks: long-term investing and an emergency buffer. Automate both.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bucket-a-long-term&#34;&gt;Bucket A: Long-term&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Recurring investment into a broad ETF (e.g., VWCE) via automation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;bucket-b-emergency-buffer&#34;&gt;Bucket B: Emergency buffer&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Separate emergency savings target range.&lt;/li&gt;&#xA;&lt;li&gt;Keeps shocks from becoming existential.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;rule&#34;&gt;Rule&lt;/h2&gt;&#xA;&lt;p&gt;Start small, automate early, refine later.&lt;/p&gt;</description>
     </item>
   </channel>

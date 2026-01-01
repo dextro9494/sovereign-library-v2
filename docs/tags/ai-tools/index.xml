@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ai-Tools on The Sovereign Library</title>
-    <link>https://dextro9494.github.io/sovereign-library/tags/ai-tools/</link>
+    <link>https://dextro9494.github.io/sovereign-library-v2/tags/ai-tools/</link>
     <description>Recent content in Ai-Tools on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/ai-tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/tags/ai-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grok Interface Boundary Test</title>
-      <link>https://dextro9494.github.io/sovereign-library/field-tests/grok-interface-boundary-test/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/field-tests/grok-interface-boundary-test/</link>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/field-tests/grok-interface-boundary-test/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/field-tests/grok-interface-boundary-test/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Attempted direct &amp;lsquo;Memory Audit&amp;rsquo; prompt; blocked. Finding: hard privacy/security boundaries; best used as bounded tactical problem-solver.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 3&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-happened&#34;&gt;What Happened&lt;/h2&gt;&#xA;&lt;p&gt;Hit Grok free plan limits during Digital Farming work (Nov 29). Attempted direct memory/audit prompts — blocked.&lt;/p&gt;&#xA;&lt;h2 id=&#34;finding&#34;&gt;Finding&lt;/h2&gt;&#xA;&lt;p&gt;Grok has hard privacy/security boundaries. Best used as bounded tactical problem-solver, not free-form archive or deep context holder.&lt;/p&gt;&#xA;&lt;h2 id=&#34;role-assignment&#34;&gt;Role Assignment&lt;/h2&gt;&#xA;&lt;p&gt;Tactical reserve / Provocation &amp;amp; Pattern-Disruption (per Council structure).&lt;/p&gt;</description>
     </item>
   </channel>

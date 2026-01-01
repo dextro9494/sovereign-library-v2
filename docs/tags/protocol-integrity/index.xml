@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Protocol-Integrity on The Sovereign Library</title>
-    <link>https://dextro9494.github.io/sovereign-library/tags/protocol-integrity/</link>
+    <link>https://dextro9494.github.io/sovereign-library-v2/tags/protocol-integrity/</link>
     <description>Recent content in Protocol-Integrity on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/protocol-integrity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/tags/protocol-integrity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TEST: Chat Interface Stress Test</title>
-      <link>https://dextro9494.github.io/sovereign-library/field-tests/test-chat-interface-stress-test/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/field-tests/test-chat-interface-stress-test/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/field-tests/test-chat-interface-stress-test/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/field-tests/test-chat-interface-stress-test/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Stress-tested interface and protocol integrity under meta-engagement; confirmed reliability.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-was-tested&#34;&gt;What Was Tested&lt;/h2&gt;&#xA;&lt;p&gt;Interface and protocol integrity under meta-engagement (Operator interrogating the system itself).&lt;/p&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;&#xA;&lt;p&gt;SUCCESS. System correctly interpreted meta-engagement as a test.&lt;/p&gt;&#xA;&lt;h2 id=&#34;significance&#34;&gt;Significance&lt;/h2&gt;&#xA;&lt;p&gt;Validates the Council&amp;rsquo;s &amp;ldquo;Director of Intelligence&amp;rdquo; model. The Operator can interrogate the system without breaking operational mode.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verification on The Sovereign Library</title>
-    <link>https://dextro9494.github.io/sovereign-library/tags/verification/</link>
+    <link>https://dextro9494.github.io/sovereign-library-v2/tags/verification/</link>
     <description>Recent content in Verification on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/verification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/tags/verification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Timeline Verification</title>
-      <link>https://dextro9494.github.io/sovereign-library/history/timeline-verification/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/history/timeline-verification/</link>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/history/timeline-verification/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/history/timeline-verification/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; A verified timeline (Nov 25 → end of Dec 2025) used to correct date drift across entries.&lt;/p&gt;&#xA;&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prevent “date hallucinations” across tools and sessions.&lt;/li&gt;&#xA;&lt;li&gt;Keep the Library grounded.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;where-to-update-next&#34;&gt;Where to update next&lt;/h2&gt;&#xA;&lt;p&gt;If any entry’s date is uncertain, run Temporal Alignment Verification and update here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TEST: Temporal Alignment Verification</title>
-      <link>https://dextro9494.github.io/sovereign-library/field-tests/test-temporal-alignment-verification/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/field-tests/test-temporal-alignment-verification/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/field-tests/test-temporal-alignment-verification/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/field-tests/test-temporal-alignment-verification/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Verified chronological drift correction and temporal alignment; used as proof the system is a live artifact.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-was-tested&#34;&gt;What Was Tested&lt;/h2&gt;&#xA;&lt;p&gt;Codex timestamps realigned to Sovereign Local Time (Kerkrade, NL).&lt;/p&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;&#xA;&lt;p&gt;SUCCESS. System maintains chronological integrity across time zones.&lt;/p&gt;&#xA;&lt;h2 id=&#34;significance&#34;&gt;Significance&lt;/h2&gt;&#xA;&lt;p&gt;Codex is a live artifact, not bound by server time. Temporal sovereignty enforced.&lt;/p&gt;</description>
     </item>
   </channel>

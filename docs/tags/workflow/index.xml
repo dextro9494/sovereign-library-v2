@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workflow on The Sovereign Library</title>
-    <link>https://dextro9494.github.io/sovereign-library/tags/workflow/</link>
+    <link>https://dextro9494.github.io/sovereign-library-v2/tags/workflow/</link>
     <description>Recent content in Workflow on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive Integration Methodology</title>
-      <link>https://dextro9494.github.io/sovereign-library/protocols/archive-integration-methodology/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/protocols/archive-integration-methodology/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/protocols/archive-integration-methodology/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/protocols/archive-integration-methodology/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dedicated workflow: separate execution mode from archiving mode (dedicated chat for legacy integration). Clean separation of concerns keeps velocity high and avoids the extraction swamp.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;principle&#34;&gt;Principle&lt;/h2&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t mix building with archiving. Use dedicated sessions for legacy integration work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;rationale&#34;&gt;Rationale&lt;/h2&gt;&#xA;&lt;p&gt;Operational execution takes precedence over architectural refinement. If uncertain whether to update the Codex or execute a protocol, execute first.&lt;/p&gt;</description>
     </item>
   </channel>

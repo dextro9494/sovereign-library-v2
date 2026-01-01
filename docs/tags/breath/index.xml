@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breath on The Sovereign Library</title>
-    <link>https://dextro9494.github.io/sovereign-library/tags/breath/</link>
+    <link>https://dextro9494.github.io/sovereign-library-v2/tags/breath/</link>
     <description>Recent content in Breath on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/breath/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/tags/breath/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breathing Override (Edge-Case Protocol)</title>
-      <link>https://dextro9494.github.io/sovereign-library/protocols/breathing-override-edge-case-protocol/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/protocols/breathing-override-edge-case-protocol/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/protocols/breathing-override-edge-case-protocol/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/protocols/breathing-override-edge-case-protocol/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; When cognitive access fails, physiology becomes the command line: inhale/exhale, reboot from the body.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 1, 4&lt;/p&gt;&#xA;&lt;h2 id=&#34;trigger&#34;&gt;Trigger&lt;/h2&gt;&#xA;&lt;p&gt;If cognitive access to the architecture fails completely.&lt;/p&gt;&#xA;&lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;&#xA;&lt;p&gt;Breath is the physiological command line. Inhale. Exhale. Reboot from the body.&lt;/p&gt;</description>
     </item>
   </channel>

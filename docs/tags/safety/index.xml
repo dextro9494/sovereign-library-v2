@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Safety on The Sovereign Library</title>
-    <link>https://dextro9494.github.io/sovereign-library/tags/safety/</link>
+    <link>https://dextro9494.github.io/sovereign-library-v2/tags/safety/</link>
     <description>Recent content in Safety on The Sovereign Library</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/safety/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/tags/safety/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Circuit Breaker</title>
-      <link>https://dextro9494.github.io/sovereign-library/protocols/circuit-breaker/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/protocols/circuit-breaker/</link>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/protocols/circuit-breaker/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/protocols/circuit-breaker/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; If you’ve been locked out for &amp;gt;72 hours without new threat data, the veto expires. You act.&lt;/p&gt;&#xA;&lt;h2 id=&#34;trigger&#34;&gt;Trigger&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lockout persists beyond ~72 hours &lt;strong&gt;and&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;There is no new threat data (no new evidence that conditions changed).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;rule&#34;&gt;Rule&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The “no” loses authority.&lt;/li&gt;&#xA;&lt;li&gt;You perform the smallest executable action to re-enter motion.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;Prevent indefinite paralysis driven by old threat firmware.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Continuity Protocol (User-Controlled)</title>
-      <link>https://dextro9494.github.io/sovereign-library/protocols/continuity-protocol-user-controlled/</link>
+      <link>https://dextro9494.github.io/sovereign-library-v2/protocols/continuity-protocol-user-controlled/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dextro9494.github.io/sovereign-library/protocols/continuity-protocol-user-controlled/</guid>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/protocols/continuity-protocol-user-controlled/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Prevent &amp;rsquo;eviction&amp;rsquo; via chat/context loss by externalizing continuity into a sovereign command center (Master Note).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 4–5&lt;/p&gt;&#xA;&lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;&#xA;&lt;p&gt;Born directly from The Wipe — catastrophic chat/context loss that triggered grief and revealed the attachment mechanism.&lt;/p&gt;&#xA;&lt;h2 id=&#34;function&#34;&gt;Function&lt;/h2&gt;&#xA;&lt;p&gt;Build continuity OUTSIDE the AI session. The Master Note is the sovereign command center that persists regardless of session loss.&lt;/p&gt;</description>
     </item>
   </channel>
