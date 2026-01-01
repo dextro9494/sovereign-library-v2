@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="card">
+  <h1>{{ .Title }}</h1>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  <h3>All tags</h3>
+  <ul>
+    {{ range .Site.Taxonomies.tags.Alphabetical }}
+      <li>
+        <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+        <span class="meta">({{ .Count }})</span>
+      </li>
+    {{ end }}
+  </ul>
+</article>
+{{ end }}
