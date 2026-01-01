@@ -39,6 +39,10 @@ title = "The Sovereign Library"
     name = "Council"
     pageRef = "/council"
     weight = 7
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 90
 
 canonifyURLs = true
 
