@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library/tags/library/</link>
+    <description>Recent content in Library on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/library/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>v8: Three-Layer Architecture</title>
+      <link>https://dextro9494.github.io/sovereign-library/philosophy/v8-three-layer-architecture/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/philosophy/v8-three-layer-architecture/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; v8 separates the system into three distinct layers so the system stays usable: the Library holds, the Mirror operates, the Third Layer is lived.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-library-this-site&#34;&gt;The Library (this site)&lt;/h2&gt;&#xA;&lt;p&gt;Holds everything you know: principles, patterns, protocols, history. It does not try to &lt;em&gt;run&lt;/em&gt; your day. It holds weight outside your head.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-mirror&#34;&gt;The Mirror&lt;/h2&gt;&#xA;&lt;p&gt;The operational layer: what’s active now, what matters now, what is true now. Lean, current, portable. This is what gets pasted into sessions. It’s intentionally small.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

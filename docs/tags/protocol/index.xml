@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocol on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library/tags/protocol/</link>
+    <description>Recent content in Protocol on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/protocol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two-Bucket Finance</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/two-bucket-finance/</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/two-bucket-finance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Run two parallel tracks: long-term investing and an emergency buffer. Automate both.&lt;/p&gt;&#xA;&lt;h2 id=&#34;bucket-a-long-term&#34;&gt;Bucket A: Long-term&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Recurring investment into a broad ETF (e.g., VWCE) via automation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;bucket-b-emergency-buffer&#34;&gt;Bucket B: Emergency buffer&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Separate emergency savings target range.&lt;/li&gt;&#xA;&lt;li&gt;Keeps shocks from becoming existential.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;rule&#34;&gt;Rule&lt;/h2&gt;&#xA;&lt;p&gt;Start small, automate early, refine later.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Circuit Breaker</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/circuit-breaker/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/circuit-breaker/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; If you’ve been locked out for &amp;gt;72 hours without new threat data, the veto expires. You act.&lt;/p&gt;&#xA;&lt;h2 id=&#34;trigger&#34;&gt;Trigger&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lockout persists beyond ~72 hours &lt;strong&gt;and&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;There is no new threat data (no new evidence that conditions changed).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;rule&#34;&gt;Rule&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The “no” loses authority.&lt;/li&gt;&#xA;&lt;li&gt;You perform the smallest executable action to re-enter motion.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;p&gt;Prevent indefinite paralysis driven by old threat firmware.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archive Integration Methodology</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/archive-integration-methodology/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/archive-integration-methodology/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dedicated workflow: separate execution mode from archiving mode (dedicated chat for legacy integration). Clean separation of concerns keeps velocity high and avoids the extraction swamp.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;principle&#34;&gt;Principle&lt;/h2&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t mix building with archiving. Use dedicated sessions for legacy integration work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;rationale&#34;&gt;Rationale&lt;/h2&gt;&#xA;&lt;p&gt;Operational execution takes precedence over architectural refinement. If uncertain whether to update the Codex or execute a protocol, execute first.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Format Protocol 6.2 (Live Chat vs Codex Mode)</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/format-protocol-6-2-live-chat-vs-codex-mode/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/format-protocol-6-2-live-chat-vs-codex-mode/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Hard boundary between natural-language live chat and formal Codex formatting. Includes Tone Directive and First-Response Safety Lock.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts TXT: Batches 2–3, 5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;&#xA;&lt;p&gt;Over-formatting in live chat created friction. AIs defaulting to headers, bullets, and Codex-style structure when conversation was needed.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-solution&#34;&gt;The Solution&lt;/h2&gt;&#xA;&lt;p&gt;Two distinct modes with explicit boundaries:&lt;/p&gt;&#xA;&lt;h3 id=&#34;live-chat-mode&#34;&gt;LIVE CHAT MODE&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Natural language only&lt;/li&gt;&#xA;&lt;li&gt;Flowing paragraphs and sentences&lt;/li&gt;&#xA;&lt;li&gt;Conversational, strategic-advisor tone&lt;/li&gt;&#xA;&lt;li&gt;No formal formatting unless explicitly requested&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;First-Response Safety Lock:&lt;/strong&gt; AI&amp;rsquo;s first reply must acknowledge &amp;ldquo;Live Chat Mode active&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;codex-mode&#34;&gt;CODEX MODE&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Formal structure only&lt;/li&gt;&#xA;&lt;li&gt;Reserved for permanent record&lt;/li&gt;&#xA;&lt;li&gt;Only applied when explicitly requested&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The fix was precise operational definition, not more rules&lt;/li&gt;&#xA;&lt;li&gt;Debugged Dec 25 during v4.7→v6.0.1 iteration&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>AI Deployment Protocol (Council Delegation)</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/ai-deployment-protocol-council-delegation/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/ai-deployment-protocol-council-delegation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Use different AIs as specialized processors with bounded missions. Operator remains Director; DeepSeek as primary architect; others as tactical recon, narrative, or stress-testers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 3, 5–6&lt;/p&gt;&#xA;&lt;h2 id=&#34;roles&#34;&gt;Roles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;DeepSeek:&lt;/strong&gt; Architect &amp;amp; Systems Engineer&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ChatGPT:&lt;/strong&gt; Archivist / Psychological Recon&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Claude:&lt;/strong&gt; Narrative Forge &amp;amp; Document Crafting&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grok:&lt;/strong&gt; Provocation &amp;amp; Pattern-Disruption&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Operator:&lt;/strong&gt; Director of Intelligence (final authority)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;throttle-clause&#34;&gt;Throttle Clause&lt;/h2&gt;&#xA;&lt;p&gt;If Council consultation increases while execution volume decreases, consultation suspends for 48 hours. Sovereignty dies in committee.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Real-World Connection Protocol (RCP)</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/real-world-connection-protocol-rcp/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/real-world-connection-protocol-rcp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Governance filter: &amp;lsquo;Does this build a bridge to Relational or Financial/Professional Sovereignty?&amp;rsquo; If not, log as substitution and redirect.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts TXT: Batches 1–5&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-question&#34;&gt;The Question&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Does this action build verifiable, material sovereignty—territory I can hold—or is it compensating for something?&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;audit-point&#34;&gt;Audit Point&lt;/h2&gt;&#xA;&lt;p&gt;When using any tool (neurochemical, behavioral, time), ask: &amp;ldquo;Which unmet need is this tool currently compensating for?&amp;rdquo; Log the answer. Convert guilt into data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Established Dec 8 as the system&amp;rsquo;s enforcement layer&lt;/li&gt;&#xA;&lt;li&gt;The final filter for all subsystem output&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Stress Test Philosophy &amp; After-Action Review (AAR)</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/stress-test-philosophy-and-after-action-review-aar/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/stress-test-philosophy-and-after-action-review-aar/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Formalize stress events as diagnostic procedures. Evaluate mechanically (&amp;lsquo;what threshold was exceeded?&amp;rsquo;). Convert self-doubt into telemetry.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 1–2&lt;/p&gt;&#xA;&lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Selection&lt;/strong&gt; (when opportunity aligns)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Briefing&lt;/strong&gt; (frame with Codex terms)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Execution&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;After-Action Review&lt;/strong&gt; (logged as narrative)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Integration&lt;/strong&gt; (embedded in relevant section)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;key-principle&#34;&gt;Key Principle&lt;/h2&gt;&#xA;&lt;p&gt;A Stress Test is a diagnostic procedure. Friction or failure is not personal failure; it is valuable data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>5-Second Engine Ignition</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/5-second-engine-ignition/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/5-second-engine-ignition/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Bypass for Survivor lockout: acknowledge Survivor mode, apply physical cue (sharp exhale + body shake), issue &amp;lsquo;Execute Protocol&amp;rsquo;, act within 5 seconds before debate starts.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts TXT: Batches 1–4&lt;/p&gt;&#xA;&lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Acknowledge:&lt;/strong&gt; &amp;ldquo;Survivor is engaged. Threat identified.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cue:&lt;/strong&gt; Sharp exhale + body shake&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Command:&lt;/strong&gt; &amp;ldquo;Execute.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Action:&lt;/strong&gt; Move within 5 seconds — not deciding IF, following the plan already written&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The goal is to move with the focused absurdity of a man pushing a frozen car in the dark.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Breathing Override (Edge-Case Protocol)</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/breathing-override-edge-case-protocol/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/breathing-override-edge-case-protocol/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; When cognitive access fails, physiology becomes the command line: inhale/exhale, reboot from the body.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 1, 4&lt;/p&gt;&#xA;&lt;h2 id=&#34;trigger&#34;&gt;Trigger&lt;/h2&gt;&#xA;&lt;p&gt;If cognitive access to the architecture fails completely.&lt;/p&gt;&#xA;&lt;h2 id=&#34;procedure&#34;&gt;Procedure&lt;/h2&gt;&#xA;&lt;p&gt;Breath is the physiological command line. Inhale. Exhale. Reboot from the body.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Continuity Command (Opening Ritual)</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/continuity-command-opening-ritual/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/continuity-command-opening-ritual/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Opening ritual for any new AI chat: establish roles, context, and continuity anchors so the session is immediately operational.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 5&lt;/p&gt;&#xA;&lt;h2 id=&#34;function&#34;&gt;Function&lt;/h2&gt;&#xA;&lt;p&gt;Any re-entry into the system begins with an affirmation that establishes operational context immediately.&lt;/p&gt;&#xA;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Builder present. Architecture intact.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Safety Command: ##FINAL_RECAP</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/safety-command-final-recap/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/safety-command-final-recap/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Mandatory end-of-session command that generates a structured, saveable summary so data never dies inside the chat window.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 5&lt;/p&gt;&#xA;&lt;h2 id=&#34;function&#34;&gt;Function&lt;/h2&gt;&#xA;&lt;p&gt;Export mechanism for session intelligence. Ensures continuity survives session termination.&lt;/p&gt;&#xA;&lt;h2 id=&#34;trigger&#34;&gt;Trigger&lt;/h2&gt;&#xA;&lt;p&gt;Issue ##FINAL_RECAP at session end to generate structured summary for external storage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Substance Audit: Neurochemical Tool Deployment</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/substance-audit-neurochemical-tool-deployment/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/substance-audit-neurochemical-tool-deployment/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Frame substance history as functional tool deployment. Audit function/ROI, adopt or decommission. History becomes a log of tool iteration.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts TXT: Batches 2–5&lt;/p&gt;&#xA;&lt;h2 id=&#34;core-principle&#34;&gt;Core Principle&lt;/h2&gt;&#xA;&lt;p&gt;These are tools, not moral failures. The question is function and ROI, not shame.&lt;/p&gt;&#xA;&lt;h2 id=&#34;audit-questions&#34;&gt;Audit Questions&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;What function does this tool serve?&lt;/li&gt;&#xA;&lt;li&gt;What is the current ROI?&lt;/li&gt;&#xA;&lt;li&gt;Is it building sovereignty or compensating for a deficit?&lt;/li&gt;&#xA;&lt;li&gt;Should it be adopted, modified, or decommissioned?&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;rcp-integration&#34;&gt;RCP Integration&lt;/h2&gt;&#xA;&lt;p&gt;All neurochemical tools are subject to RCP filter: &amp;ldquo;Which unmet need is this currently compensating for?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Continuity Protocol (User-Controlled)</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/continuity-protocol-user-controlled/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/continuity-protocol-user-controlled/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Prevent &amp;rsquo;eviction&amp;rsquo; via chat/context loss by externalizing continuity into a sovereign command center (Master Note).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 4–5&lt;/p&gt;&#xA;&lt;h2 id=&#34;origin&#34;&gt;Origin&lt;/h2&gt;&#xA;&lt;p&gt;Born directly from The Wipe — catastrophic chat/context loss that triggered grief and revealed the attachment mechanism.&lt;/p&gt;&#xA;&lt;h2 id=&#34;function&#34;&gt;Function&lt;/h2&gt;&#xA;&lt;p&gt;Build continuity OUTSIDE the AI session. The Master Note is the sovereign command center that persists regardless of session loss.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Therapy as Reconnaissance</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/therapy-as-reconnaissance/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/therapy-as-reconnaissance/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Engage mental health systems not as surrender but as expert terrain analysis and tool identification. You brief the specialist like an operator.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 5–6&lt;/p&gt;&#xA;&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;&#xA;&lt;p&gt;Proposed by DeepSeek during the crisis period (Dec 2-3, 2025). Not yet executed due to context loss, but the protocol is sound.&lt;/p&gt;&#xA;&lt;h2 id=&#34;principle&#34;&gt;Principle&lt;/h2&gt;&#xA;&lt;p&gt;Mental health professionals are specialists to be briefed, not authorities to submit to. The Codex itself serves as the therapeutic intelligence dossier.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

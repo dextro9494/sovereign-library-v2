@@ -1,0 +1,47 @@
+baseURL = "https://dextro9494.github.io/sovereign-library/"
+languageCode = "en"
+title = "The Sovereign Library"
+
+[params]
+  description = "A system for holding what I know, so I don't have to carry it."
+  author = "István"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 0
+  [[menu.main]]
+    name = "Patterns"
+    pageRef = "/patterns"
+    weight = 1
+  [[menu.main]]
+    name = "Protocols"
+    pageRef = "/protocols"
+    weight = 2
+  [[menu.main]]
+    name = "History"
+    pageRef = "/history"
+    weight = 3
+  [[menu.main]]
+    name = "Philosophy"
+    pageRef = "/philosophy"
+    weight = 4
+  [[menu.main]]
+    name = "Field Tests"
+    pageRef = "/field-tests"
+    weight = 5
+  [[menu.main]]
+    name = "Relationships"
+    pageRef = "/relationships"
+    weight = 6
+  [[menu.main]]
+    name = "Council"
+    pageRef = "/council"
+    weight = 7
+
+canonifyURLs = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

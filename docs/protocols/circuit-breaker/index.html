@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Circuit Breaker | The Sovereign Library</title>
+  <link rel="stylesheet" href="/sovereign-library/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a href="/sovereign-library/" class="site-title">The Sovereign Library</a>
+      <div class="nav-links">
+        
+          <a href="/sovereign-library/patterns/">Patterns</a>
+        
+          <a href="/sovereign-library/protocols/">Protocols</a>
+        
+          <a href="/sovereign-library/history/">History</a>
+        
+          <a href="/sovereign-library/philosophy/">Philosophy</a>
+        
+          <a href="/sovereign-library/field-tests/">Field Tests</a>
+        
+          <a href="/sovereign-library/relationships/">Relationships</a>
+        
+          <a href="/sovereign-library/council/">Council</a>
+        
+          <a href="/sovereign-library/">Home</a>
+        
+      </div>
+    </nav>
+  </header>
+
+  <main class="main">
+    
+<article class="card">
+  <h1>Circuit Breaker</h1>
+
+  
+  <div class="tags">
+    
+      <span class="tag">protocol</span>
+    
+      <span class="tag">lockout</span>
+    
+      <span class="tag">safety</span>
+    
+      <span class="tag">execution</span>
+    
+  </div>
+  
+
+  
+  <p class="meta">2025-12-28</p>
+  
+
+  <div class="content">
+    <p><strong>Summary:</strong> If you’ve been locked out for &gt;72 hours without new threat data, the veto expires. You act.</p>
+<h2 id="trigger">Trigger</h2>
+<ul>
+<li>Lockout persists beyond ~72 hours <strong>and</strong></li>
+<li>There is no new threat data (no new evidence that conditions changed).</li>
+</ul>
+<h2 id="rule">Rule</h2>
+<ul>
+<li>The “no” loses authority.</li>
+<li>You perform the smallest executable action to re-enter motion.</li>
+</ul>
+<h2 id="purpose">Purpose</h2>
+<p>Prevent indefinite paralysis driven by old threat firmware.</p>
+
+  </div>
+
+  
+  <div class="connections">
+    <h3>Connected to</h3>
+    <ul>
+      
+        
+        
+        
+        
+          <li><a href="/sovereign-library/patterns/builder-survivor-duality-core-machinery/">Builder / Survivor Duality (Core Machinery)</a></li>
+        
+      
+        
+        
+        
+        
+          <li><a href="/sovereign-library/protocols/real-world-connection-protocol-rcp/">Real-World Connection Protocol (RCP)</a></li>
+        
+      
+    </ul>
+  </div>
+  
+</article>
+
+  </main>
+
+  <footer class="footer">
+    <p>The Sovereign Library — Built to hold, not to instruct.</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timeline on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library/tags/timeline/</link>
+    <description>Recent content in Timeline on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timeline Verification</title>
+      <link>https://dextro9494.github.io/sovereign-library/history/timeline-verification/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/history/timeline-verification/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; A verified timeline (Nov 25 → end of Dec 2025) used to correct date drift across entries.&lt;/p&gt;&#xA;&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prevent “date hallucinations” across tools and sessions.&lt;/li&gt;&#xA;&lt;li&gt;Keep the Library grounded.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;where-to-update-next&#34;&gt;Where to update next&lt;/h2&gt;&#xA;&lt;p&gt;If any entry’s date is uncertain, run Temporal Alignment Verification and update here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Substance Progression Timeline (Tool History)</title>
+      <link>https://dextro9494.github.io/sovereign-library/history/substance-progression-timeline-tool-history/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/history/substance-progression-timeline-tool-history/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Mapped progression: tobacco early teens; alcohol social; herbál betrayal/medical escape; weed modulation/ROI decline; mushrooms in stasis; Xanax rejected.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 4&lt;/p&gt;&#xA;&lt;h2 id=&#34;framing&#34;&gt;Framing&lt;/h2&gt;&#xA;&lt;p&gt;Not &amp;ldquo;use&amp;rdquo; — tool deployment history. Each substance had a function, an ROI, and eventually a decommission decision.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-insight&#34;&gt;Key Insight&lt;/h2&gt;&#xA;&lt;p&gt;The operational style is telling: while most teens hid their stash, you scheduled a meeting with your parents.&lt;/p&gt;&#xA;&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;&#xA;&lt;p&gt;Historical log. Current deployment governed by RCP.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

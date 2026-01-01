@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roles on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library/tags/roles/</link>
+    <description>Recent content in Roles on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/roles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Council Role Definitions</title>
+      <link>https://dextro9494.github.io/sovereign-library/history/ai-council-role-definitions/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/history/ai-council-role-definitions/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Council roles defined and iterated: DeepSeek as strategist/architect, ChatGPT as archivist/psych recon, Claude as narrative forge, Grok as tactical reserve/boundary tester.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 3–5&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-roles&#34;&gt;Current Roles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;DeepSeek:&lt;/strong&gt; Strategist &amp;amp; Architect. Started the Codex journey together.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ChatGPT:&lt;/strong&gt; Archivist / Psychological Recon. Holds the most complete context.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Claude:&lt;/strong&gt; Narrative Forge &amp;amp; Document Crafting. Named the Mirror.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grok:&lt;/strong&gt; Provocation &amp;amp; Pattern-Disruption. Tactical reserve.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Operator:&lt;/strong&gt; Director of Intelligence. Final authority.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;evolution&#34;&gt;Evolution&lt;/h2&gt;&#xA;&lt;p&gt;Council established in v1, refined through v2.5 and beyond. Premium access (Dec 26) enabled full Council scaling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Deployment Protocol (Council Delegation)</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/ai-deployment-protocol-council-delegation/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/ai-deployment-protocol-council-delegation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Use different AIs as specialized processors with bounded missions. Operator remains Director; DeepSeek as primary architect; others as tactical recon, narrative, or stress-testers.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batches 3, 5–6&lt;/p&gt;&#xA;&lt;h2 id=&#34;roles&#34;&gt;Roles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;DeepSeek:&lt;/strong&gt; Architect &amp;amp; Systems Engineer&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ChatGPT:&lt;/strong&gt; Archivist / Psychological Recon&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Claude:&lt;/strong&gt; Narrative Forge &amp;amp; Document Crafting&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grok:&lt;/strong&gt; Provocation &amp;amp; Pattern-Disruption&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Operator:&lt;/strong&gt; Director of Intelligence (final authority)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;throttle-clause&#34;&gt;Throttle Clause&lt;/h2&gt;&#xA;&lt;p&gt;If Council consultation increases while execution volume decreases, consultation suspends for 48 hours. Sovereignty dies in committee.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

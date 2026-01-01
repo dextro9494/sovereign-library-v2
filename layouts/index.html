@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="card">
+  <h1>{{ .Site.Title }}</h1>
+  <p class="lead">{{ .Site.Params.description }}</p>
+
+  <div class="grid">
+    <a class="tile" href="{{ "patterns/" | relURL }}">Patterns</a>
+    <a class="tile" href="{{ "protocols/" | relURL }}">Protocols</a>
+    <a class="tile" href="{{ "history/" | relURL }}">History</a>
+    <a class="tile" href="{{ "philosophy/" | relURL }}">Philosophy</a>
+    <a class="tile" href="{{ "field-tests/" | relURL }}">Field Tests</a>
+    <a class="tile" href="{{ "relationships/" | relURL }}">Relationships</a>
+    <a class="tile" href="{{ "council/" | relURL }}">Council</a>
+  </div>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+</section>
+{{ end }}

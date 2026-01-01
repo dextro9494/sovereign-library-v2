@@ -1,0 +1,39 @@
+{{ define "main" }}
+<article class="card">
+  <h1>{{ .Title }}</h1>
+
+  {{ if .Params.tags }}
+  <div class="tags">
+    {{ range .Params.tags }}
+      <span class="tag">{{ . }}</span>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ if .Date }}
+  <p class="meta">{{ .Date.Format "2006-01-02" }}</p>
+  {{ end }}
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  {{ if .Params.connected }}
+  <div class="connections">
+    <h3>Connected to</h3>
+    <ul>
+      {{ range .Params.connected }}
+        {{ $path := . }}
+        {{ $clean := strings.TrimSuffix "/" $path }}
+        {{ $p := site.GetPage $clean }}
+        {{ if $p }}
+          <li><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></li>
+        {{ else }}
+          <li><span class="missing">Missing:</span> <code>{{ $path }}</code></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+</article>
+{{ end }}

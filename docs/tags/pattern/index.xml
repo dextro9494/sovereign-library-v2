@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pattern on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library/tags/pattern/</link>
+    <description>Recent content in Pattern on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/pattern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fortress Base</title>
+      <link>https://dextro9494.github.io/sovereign-library/patterns/fortress-base/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/patterns/fortress-base/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; A low-complexity stability scaffold that funds and protects higher-risk building.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pattern&#34;&gt;Pattern&lt;/h2&gt;&#xA;&lt;p&gt;Use an anchor job to reduce volatility and create space for sovereignty construction.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-implementation&#34;&gt;Current implementation&lt;/h2&gt;&#xA;&lt;p&gt;PostNL mail sorting (see Anchor Decision).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temporal on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library/tags/temporal/</link>
+    <description>Recent content in Temporal on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/temporal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TEST: Temporal Alignment Verification</title>
+      <link>https://dextro9494.github.io/sovereign-library/field-tests/test-temporal-alignment-verification/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/field-tests/test-temporal-alignment-verification/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Verified chronological drift correction and temporal alignment; used as proof the system is a live artifact.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-was-tested&#34;&gt;What Was Tested&lt;/h2&gt;&#xA;&lt;p&gt;Codex timestamps realigned to Sovereign Local Time (Kerkrade, NL).&lt;/p&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;&#xA;&lt;p&gt;SUCCESS. System maintains chronological integrity across time zones.&lt;/p&gt;&#xA;&lt;h2 id=&#34;significance&#34;&gt;Significance&lt;/h2&gt;&#xA;&lt;p&gt;Codex is a live artifact, not bound by server time. Temporal sovereignty enforced.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

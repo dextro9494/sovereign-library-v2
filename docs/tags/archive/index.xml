@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library/tags/archive/</link>
+    <description>Recent content in Archive on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dextro9494.github.io/sovereign-library/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive Integration Methodology</title>
+      <link>https://dextro9494.github.io/sovereign-library/protocols/archive-integration-methodology/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/protocols/archive-integration-methodology/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Dedicated workflow: separate execution mode from archiving mode (dedicated chat for legacy integration). Clean separation of concerns keeps velocity high and avoids the extraction swamp.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;principle&#34;&gt;Principle&lt;/h2&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t mix building with archiving. Use dedicated sessions for legacy integration work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;rationale&#34;&gt;Rationale&lt;/h2&gt;&#xA;&lt;p&gt;Operational execution takes precedence over architectural refinement. If uncertain whether to update the Codex or execute a protocol, execute first.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Core &#43; Archive Dual-Layer Architecture</title>
+      <link>https://dextro9494.github.io/sovereign-library/philosophy/core-archive-dual-layer-architecture/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library/philosophy/core-archive-dual-layer-architecture/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; System scaling principle: separate the blade (Core for acting) from the library (Archive for remembering). Prevents bloat and preserves operational speed.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; Raw Transcripts: Batch 7&lt;/p&gt;&#xA;&lt;h2 id=&#34;v70-architecture&#34;&gt;v7.0 Architecture&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core:&lt;/strong&gt; The blade. For acting. Lean, operational.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Archive:&lt;/strong&gt; The library. For remembering. Complete, historical.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;evolution-to-v80&#34;&gt;Evolution to v8.0&lt;/h2&gt;&#xA;&lt;p&gt;v7.0 fragmented because Core and Archive became entangled. v8.0 breakthrough:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Library:&lt;/strong&gt; Holds everything. Lives outside AI sessions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mirror:&lt;/strong&gt; Shows where you are NOW. Lean, portable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Third Layer:&lt;/strong&gt; What becomes possible when the other two work. Lived, not stored.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;key-insight&#34;&gt;Key Insight&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;The thing is only good if it&amp;rsquo;s not trying to be the thing; simple is what it should be.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
