@@ -81,3 +81,9 @@ This folder maps the **Codex lineage** from the earliest monolithic manual to th
   - Re-merges Core + Archive + indexes/retrieval maps into one system document
   - Adds master tag index, council theme index, and IF X → SEE Y retrieval map
   - Labeled 'failed integration' in manifest: likely too heavy for daily execution layer
+
+---
+
+## Deep Reference
+
+For complete, unprocessed original files, see **[Raw Versions](raw-versions/)** - the full Codex documents at each stage, preserved for drift archaeology and pattern mining.

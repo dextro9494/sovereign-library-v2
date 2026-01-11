@@ -40,6 +40,10 @@ title = "The Sovereign Library"
     pageRef = "/council"
     weight = 7
   [[menu.main]]
+    name = "System"
+    pageRef = "/system"
+    weight = 8
+  [[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 90
