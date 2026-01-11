@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systems on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library-v2/system/</link>
+    <description>Recent content in Systems on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connections Index</title>
+      <link>https://dextro9494.github.io/sovereign-library-v2/system/connections-index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/system/connections-index/</guid>
+      <description>&lt;h1 id=&#34;connections-index&#34;&gt;Connections Index&lt;/h1&gt;&#xA;&lt;p&gt;A quick map of heavily connected pages (useful for navigation and maintenance).&lt;/p&gt;&#xA;&lt;p&gt;Note: this page is generated indirectly by the backlink system. The list below is a manual starting point; we’ll automate it later if needed.&lt;/p&gt;&#xA;&lt;h2 id=&#34;start-here-manual-hub-shortlist&#34;&gt;Start here (manual hub shortlist)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;/council/&lt;/li&gt;&#xA;&lt;li&gt;/philosophy/v8-three-layer-architecture/&lt;/li&gt;&#xA;&lt;li&gt;/philosophy/core-archive-dual-layer-architecture/&lt;/li&gt;&#xA;&lt;li&gt;/protocols/continuity-command-opening-ritual/&lt;/li&gt;&#xA;&lt;li&gt;/history/daily-capsules/&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
