@@ -52,10 +52,222 @@
   <div class="content">
     <h1 id="session-save--jan-12-2026">Session Save — Jan 1–2, 2026</h1>
 <p>⚠️ NOTE<br>
-The actual Jan 1–2 content lives in earlier session-save files
-(e.g. 31 Dec / 01 Jan saves). This file exists to anchor the date range
-and prevent timeline smear.</p>
-<p>If you later want, those contents can be merged here.</p>
+This file was <strong>created on January 11, 2026</strong>, but the <strong>content reflects work done on January 1st and 2nd, 2026</strong>.</p>
+<p>It is archived on Jan 11 to preserve continuity after the v2 rebuild.</p>
+<hr>
+<h1 id="sovereign-library-v2--session-save-istván--chatgpt-chief-archivist">Sovereign Library v2 — Session Save (István + ChatGPT Chief Archivist)</h1>
+<p><strong>Date:</strong> 2026-01-11<br>
+<strong>Purpose:</strong> Portable save file for continuing work in a new chat (with ChatGPT + Claude).</p>
+<hr>
+<h2 id="0-north-star">0) North Star</h2>
+<ul>
+<li><strong>Library can be grand</strong> (holds everything, can be huge).</li>
+<li><strong>Mirror + Third Layer must stay clean</strong> (executable, reality-bound).</li>
+<li>Full rework means: <strong>build v2 in parallel</strong> and only cut over at the end.</li>
+</ul>
+<hr>
+<h2 id="1-what-we-decided-non-negotiables">1) What we decided (non-negotiables)</h2>
+<ol>
+<li><strong>Do NOT overwrite v1 during the rebuild.</strong></li>
+<li>Build a <strong>new GitHub repo</strong> and deploy it as a separate site while v2 is under construction.</li>
+<li>The Library becomes “grandiose-safe” via structural primitives:
+<ul>
+<li><strong>Backlinks</strong> (“Referenced by”)</li>
+<li><strong>Tags taxonomy + tag index</strong></li>
+<li>Clear separation of Library vs Mirror template vs Third Layer receipts</li>
+</ul>
+</li>
+<li>Preferred workflow: <strong>local build → <code>/docs</code> → <code>git push</code></strong> (easy GitHub Pages).</li>
+</ol>
+<hr>
+<h2 id="2-current-live-sites">2) Current live sites</h2>
+<ul>
+<li><strong>v1 (kept intact):</strong> <code>https://dextro9494.github.io/sovereign-library/</code></li>
+<li><strong>v2 (staging, live):</strong> <code>https://dextro9494.github.io/sovereign-library-v2/</code></li>
+</ul>
+<hr>
+<h2 id="3-repos-and-local-paths">3) Repos and local paths</h2>
+<ul>
+<li>Local v2 folder:<br>
+<code>C:\Users\Gebruiker\Desktop\Codex\GitHub\sovereign-library-v2</code></li>
+<li>GitHub repo:<br>
+<code>https://github.com/dextro9494/sovereign-library-v2</code></li>
+</ul>
+<hr>
+<h2 id="4-what-we-implemented-completed">4) What we implemented (completed)</h2>
+<h3 id="41-v2-deployment-plumbing">4.1 v2 deployment plumbing</h3>
+<ul>
+<li>v2 repo created on GitHub (initially private → made public to enable Pages for free).</li>
+<li>GitHub Pages enabled and working: <strong>site is live</strong>.</li>
+<li>Publishing approach: <strong>build output committed into <code>/docs</code></strong>.</li>
+</ul>
+<h3 id="42-backlinks-referenced-by">4.2 Backlinks (“Referenced by”)</h3>
+<ul>
+<li>Updated <code>layouts/_default/single.html</code> to add a backlinks section that scans all pages and lists those whose <code>connected:</code> includes the current page.</li>
+<li>Result:
+<ul>
+<li>Outgoing: <strong>Connected to</strong></li>
+<li>Incoming: <strong>Referenced by</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="43-baseurl-corrected-for-v2">4.3 baseURL corrected for v2</h3>
+<ul>
+<li><code>config.toml</code> updated:
+<ul>
+<li><code>baseURL = &quot;https://dextro9494.github.io/sovereign-library-v2/&quot;</code></li>
+</ul>
+</li>
+</ul>
+<h3 id="44-tags-taxonomy--visible-navigation">4.4 Tags taxonomy + visible navigation</h3>
+<ul>
+<li>Created <code>content/tags/_index.md</code></li>
+<li>Created taxonomy template at <code>layouts/tags/taxonomy.html</code>
+<ul>
+<li>(Originally placed in <code>content/tags/taxonomy.html</code> by mistake → fixed by moving it to <code>layouts/</code>)</li>
+</ul>
+</li>
+<li>Added Tags to navbar in <code>config.toml</code>:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[<span style="color:#a6e22e">menu</span>.<span style="color:#a6e22e">main</span>]]
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Tags&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;/tags/&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">90</span>
+</span></span></code></pre></div></li>
+<li>Tags page:
+<ul>
+<li><code>https://dextro9494.github.io/sovereign-library-v2/tags/</code></li>
+</ul>
+</li>
+<li>Needed a hard refresh once due to caching.</li>
+</ul>
+<h3 id="45-system-connections-index-starter-manual">4.5 System “Connections Index” starter (manual)</h3>
+<ul>
+<li>Created: <code>content/system/connections-index.md</code></li>
+<li>You completed this <strong>without</strong> adding it to the menu (step 2 was skipped).</li>
+</ul>
+<h3 id="46-git-milestone-tag">4.6 Git milestone tag</h3>
+<ul>
+<li>Added and pushed git tag:
+<ul>
+<li><code>v2-start</code></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="5-commands-we-used-for-continuity">5) Commands we used (for continuity)</h2>
+<h3 id="build--publish">Build + publish</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo -d docs
+</span></span><span style="display:flex;"><span>git add -A
+</span></span><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#34;...&#34;</span>
+</span></span><span style="display:flex;"><span>git push
+</span></span></code></pre></div><h3 id="fix-push-rejection-non-fast-forward">Fix push rejection (non-fast-forward)</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git pull --rebase
+</span></span><span style="display:flex;"><span>git push
+</span></span></code></pre></div><h3 id="add-milestone-tag">Add milestone tag</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git tag -a v2-start -m <span style="color:#e6db74">&#34;v2 repo created; v1 scaffold copied; Pages working&#34;</span>
+</span></span><span style="display:flex;"><span>git push --tags
+</span></span></code></pre></div><h3 id="local-preview">Local preview</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo server
+</span></span></code></pre></div><hr>
+<h2 id="6-known-gotchas-we-hit-and-fixed">6) Known gotchas we hit (and fixed)</h2>
+<ol>
+<li><strong>GitHub Pages for private repo requires paid plan.</strong><br>
+Fix: make repo public → Pages free.</li>
+<li><strong>Tags template placed in <code>content/</code> caused Hugo build error</strong> (“unmarshal failed”).<br>
+Fix: move to <code>layouts/tags/taxonomy.html</code>.</li>
+<li><strong>Navbar changes not visible immediately</strong> due to cache.<br>
+Fix: hard refresh (Ctrl+F5).</li>
+</ol>
+<hr>
+<h2 id="7-inputs-already-shared--processed-in-this-work">7) Inputs already shared / processed in this work</h2>
+<ul>
+<li>v1 site snapshot: <code>sovereign-library.zip</code></li>
+<li>Codex versions: <code>Codex v1-v7.zip</code></li>
+<li>Claude session recaps: <code>Session recaps.zip</code></li>
+</ul>
+<hr>
+<h2 id="8-artifacts-previously-generated-if-needed-again">8) Artifacts previously generated (if needed again)</h2>
+<p>Earlier in this work we produced drop-in zips:</p>
+<ul>
+<li><code>codex-evolution-dropin.zip</code></li>
+<li><code>v2-control-panel-dropin.zip</code></li>
+</ul>
+<p>If you don’t have them saved locally, we can regenerate them in the new chat using the same uploaded sources.</p>
+<hr>
+<h2 id="9-what-remains-next-steps-in-the-right-order">9) What remains (next steps, in the right order)</h2>
+<h3 id="phase-a--lock-v2-governance-prevents-drift">Phase A — Lock v2 governance (prevents drift)</h3>
+<ol>
+<li>Create a <strong>Rework Control Panel</strong> page in v2 (derived from session recaps):
+<ul>
+<li>non-negotiables</li>
+<li>canonical vocabulary</li>
+<li>deprecated labels</li>
+<li>open decisions (only blockers)</li>
+<li>ingestion rules + statuses (<code>canonical | working | raw | receipt</code>)</li>
+</ul>
+</li>
+<li>Add <code>content/system/_index.md</code> (so <code>/system/</code> is browsable and becomes the v2 “control room”).</li>
+</ol>
+<h3 id="phase-b--mirror--third-layer-clean-executables">Phase B — Mirror + Third Layer (clean executables)</h3>
+<ol start="3">
+<li>Add <strong>Mirror Template</strong> page (schema only, publish-safe):
+<ul>
+<li>Today (date/mode/baseline)</li>
+<li>Threats/Objectives/Blockers</li>
+<li>Next 3 actions (always)</li>
+<li>Pointers (max 5)</li>
+<li>Crisis mode pointers (2–3)</li>
+</ul>
+</li>
+<li>Add <strong>Third Layer rules + receipts model</strong>:
+<ul>
+<li>Project cards: Definition of Done + Next action</li>
+<li>Receipts/milestones become the “proof” log</li>
+<li>Tiny update rhythm (keeps it lived)</li>
+</ul>
+</li>
+</ol>
+<h3 id="phase-c--ingest-heavy-sources-7-batches-into-v2-without-sludge">Phase C — Ingest heavy sources (7 batches) into v2 without sludge</h3>
+<ol start="5">
+<li>Upload the <strong>7 batches zip</strong> (batch_1..batch_7).</li>
+<li>Extract into:
+<ul>
+<li>nodes/pages</li>
+<li>connections</li>
+<li>tag seeds</li>
+<li>drift-check vs Codex Evolution</li>
+</ul>
+</li>
+</ol>
+<h3 id="phase-d--final-cutover-only-at-the-end">Phase D — Final cutover (only at the end)</h3>
+<ol start="7">
+<li>When v2 is coherent:
+<ul>
+<li>optionally rename v2 repo to <code>sovereign-library</code> to keep your main URL</li>
+<li>archive v1 repo (recommended)</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="10-definition-of-done-for-v2-readiness">10) Definition of Done for v2 readiness</h2>
+<p>v2 is ready to replace v1 when:</p>
+<ul>
+<li>System hubs exist and are consistent</li>
+<li>Mirror template is executable and stable</li>
+<li>Third Layer is proof-driven</li>
+<li>Tags + backlinks make navigation fast</li>
+<li>Codex Evolution controls drift</li>
+<li>Raw batches have been mined into nodes without bloating navigation</li>
+</ul>
+<hr>
+<h2 id="11-copypaste-for-the-next-chat-with-claude">11) Copy/paste for the next chat with Claude</h2>
+<ul>
+<li>v2 is live and v1 is preserved.</li>
+<li>We implemented backlinks + tags taxonomy + fixed baseURL for v2.</li>
+<li>Next: Rework Control Panel + System hub + Mirror template + Third Layer rules.</li>
+<li>Then ingest 7 batches with status/tags/backlinks to avoid sludge.</li>
+</ul>
+<hr>
 
   </div>
 
@@ -962,6 +1174,15 @@ and prevent timeline smear.</p>
         
         
       
+    
+  
+    
+    
+  
+    
+    
+  
+    
     
   
     

@@ -1,13 +1,9 @@
 ---
 title: "AI Homebase Starter"
 status: canonical
+origin: DeepSeek
+archived_on: 2026-01-11
 ---
-
-# AI Homebase Starter
-
-This page defines how an AI should orient itself when entering the Sovereign Library cold.
-
-> Source: DEEPSEEK_HOMEBASE_STARTER.md (imported 2026-01-11)
 
 # DeepSeek Session - Home Base
 **Date:** January 11, 2026  
