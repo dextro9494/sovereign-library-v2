@@ -43,6 +43,14 @@ title = "The Sovereign Library"
     name = "System"
     pageRef = "/system"
     weight = 8
+      [[menu.main]]
+    name = "Mirror"
+    pageRef = "/mirror"
+    weight = 9
+  [[menu.main]]
+    name = "Third Layer"
+    pageRef = "/third-layer"
+    weight = 10
   [[menu.main]]
     name = "Tags"
     url = "/tags/"

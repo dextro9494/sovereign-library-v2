@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/rename-map/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,7 +11,7 @@
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/raw-versions/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/architecture/</loc>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/raw-versions/codex-v1/</loc>
@@ -38,16 +35,7 @@
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/raw-versions/codex-v7-core/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/continuity/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/raw-versions/council-about-v7/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/system/decision-map/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/decisions/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/delta-v1-to-v2.5/</loc>
@@ -65,19 +53,10 @@
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/delta-v7.0-to-v7.1-integrated/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/drift-control/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/raw-versions/failed-codex-v7-integration/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/rework/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/sessions/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/v1-0/</loc>
@@ -104,22 +83,13 @@
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/codex-evolution/v7-1-failed/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/system/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/v2/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dextro9494.github.io/sovereign-library-v2/system/rework-control-panel/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/tags/capsule/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/continuity/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/tags/council/</loc>
@@ -141,6 +111,9 @@
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/tags/release/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/tags/v8/</loc>
@@ -205,6 +178,9 @@
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/tags/warning-system/</loc>
     <lastmod>2025-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/tags/architecture/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/protocols/circuit-breaker/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
@@ -894,14 +870,24 @@
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/system/connections-index/</loc>
   </url><url>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/system/decision-map/</loc>
+  </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/system/extraction/legacy-batches-1-7/</loc>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/history/legacy-batches/</loc>
   </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/tags/legacy-batch/</loc>
   </url><url>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/mirror/</loc>
+  </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/tags/raw/</loc>
   </url><url>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/system/rework-control-panel/</loc>
+  </url><url>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/system/</loc>
+  </url><url>
     <loc>https://dextro9494.github.io/sovereign-library-v2/system/extraction/tag-seeds-legacy-batches-1-7/</loc>
+  </url><url>
+    <loc>https://dextro9494.github.io/sovereign-library-v2/third-layer/</loc>
   </url>
 </urlset>
