@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rework on The Sovereign Library</title>
+    <link>https://dextro9494.github.io/sovereign-library-v2/tags/rework/</link>
+    <description>Recent content in Rework on The Sovereign Library</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dextro9494.github.io/sovereign-library-v2/tags/rework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>v2 Rework Control Panel</title>
+      <link>https://dextro9494.github.io/sovereign-library-v2/system/rework-control-panel/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://dextro9494.github.io/sovereign-library-v2/system/rework-control-panel/</guid>
+      <description>&lt;h1 id=&#34;v2-rework-control-panel-freeze-frame&#34;&gt;v2 Rework Control Panel (freeze-frame)&lt;/h1&gt;&#xA;&lt;p&gt;This page is the &lt;strong&gt;governor&lt;/strong&gt; for the v2 rebuild: vocabulary, non-negotiables, and intake rules.&#xA;It prevents drift while we ingest Codex + sessions + raw batches.&lt;/p&gt;&#xA;&lt;h2 id=&#34;current-state&#34;&gt;Current state&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;v1 is live&lt;/strong&gt; (published snapshot).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;v2 is live&lt;/strong&gt; (staging lane), currently a scaffold copy of v1.&lt;/li&gt;&#xA;&lt;li&gt;We do &lt;strong&gt;not overwrite v1&lt;/strong&gt; until v2 is coherent and complete.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;core-philosophy-v8-breakthrough&#34;&gt;Core philosophy (v8 breakthrough)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;“Simple is what it should be.”&lt;/strong&gt;&lt;br&gt;&#xA;The system is only useful if it doesn’t try to become the system.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

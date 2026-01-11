@@ -1,0 +1,19 @@
+---
+title: "Snapshot: v1.0 (file: Codex v1.md)"
+date: 2026-01-01
+---
+**Date range / integration:** 2025-11-late → 2025-12-14-ish (per manifest, approximate)  
+**Identity:** Builder  
+**Frame:** Monolithic master note / field manual
+
+## What this version optimized for
+- Baseline analysis + psychological OS + long-term vision + assets/vulnerabilities + command protocols
+- Introduces: AI Council protocol, RCP, Dark Council directive, strategic modules (incl. gated 'AI harem' concept)
+- Contains placeholders for an 'iteration ledger' (active entries list)
+
+
+## What to keep (for v8+)
+- Keep the *intent* that survives version jumps; retire the labels that don’t.
+
+## What to watch (drift risk)
+- See: [Drift Traps](./drift-traps/)

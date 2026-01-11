@@ -1,0 +1,19 @@
+---
+title: "Snapshot: v2.5 (file: Codex v2.md)"
+date: 2026-01-01
+---
+**Date range / integration:** Integrated 2025-12-14  
+**Identity:** Builder  
+**Frame:** Operational Holocron
+
+## What this version optimized for
+- Adds explicit versioning/status metadata and an Executive Overview (0. section)
+- Strengthens Builder vs Survivor framing and 'mission active' tone (Dark Council in session)
+- Keeps the same major module stack as v1 while making it more operational
+
+
+## What to keep (for v8+)
+- Keep the *intent* that survives version jumps; retire the labels that don’t.
+
+## What to watch (drift risk)
+- See: [Drift Traps](./drift-traps/)
