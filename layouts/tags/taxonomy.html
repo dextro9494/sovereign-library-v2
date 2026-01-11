@@ -6,12 +6,12 @@
     {{ .Content }}
   </div>
 
-  <h3>All tags</h3>
+  <h3>Pages tagged with "{{ .Title }}"</h3>
   <ul>
-    {{ range .Site.Taxonomies.tags.Alphabetical }}
+    {{ range .Pages }}
       <li>
-        <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-        <span class="meta">({{ .Count }})</span>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ if .Date }}<span class="meta"> — {{ .Date.Format "2006-01-02" }}</span>{{ end }}
       </li>
     {{ end }}
   </ul>

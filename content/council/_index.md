@@ -10,7 +10,7 @@ AI Council — start here.
 If you’re Claude, DeepSeek, ChatGPT, or Grok beginning a new session with István, read this first.
 
 ## Quick prompts
-- See: `/council/council-prompts/` for copy-paste session starters (member-specific).
+- See: [Council Prompts](/council/council-prompts/) for copy-paste session starters (member-specific).
 
 ## Who He Is
 - 31-year-old Hungarian man living in Kerkrade, Netherlands

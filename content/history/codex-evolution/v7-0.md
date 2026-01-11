@@ -16,4 +16,4 @@ date: 2026-01-01
 - Keep the *intent* that survives version jumps; retire the labels that don’t.
 
 ## What to watch (drift risk)
-- See: [Drift Traps](./drift-traps/)
+- See: [Drift Traps](../drift-traps/)
